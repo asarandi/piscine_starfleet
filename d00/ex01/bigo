@@ -1,0 +1,3 @@
+ time complexity = O(n^2), worst case, O(n log n) best case
+space complexity = O(n), can be improved to O(log n) with recursive tail calls
+

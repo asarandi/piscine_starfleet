@@ -1,0 +1,2 @@
+O(n^2) worst case, O(n log n) average case time complexity
+O(n) space complexity

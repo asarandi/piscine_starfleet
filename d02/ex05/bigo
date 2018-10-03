@@ -1,0 +1,3 @@
+O(log n)	time complexity, O(n) worst case time complexity
+O(log n)	space complexity, because of recursive calls
+

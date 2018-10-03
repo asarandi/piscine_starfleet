@@ -1,0 +1,13 @@
+worst case time complexity = O(log n), because the algorithm always chops the array into two, hence logarithmic search
+worst case space complexity = O(1), because no matter the size of the input, no additional space/variables is required
+
+
+e1z4r13p7% time ./searchPriceV2
+loading the file... finish!
+price for the art 'Guernica' is 550000000
+price for the art 'Mona Lisa' is 2000000000
+price for the art 'Picasso' is 14776730
+price for the art 'I dont exist' is -1
+price for the art 'Van Gogh' is 4219288
+./searchPriceV2  0.20s user 0.01s system 97% cpu 0.215 total
+

@@ -1,0 +1,7 @@
+hash() -> time complexity = O(n), space complexity O(1)
+dictInit() -> time complexity = O(n) because of bzero, space complexity O(n)
+dictInsert() -> time complexity = O(n) because of hash, space complexity = O(1), finite set of variables
+dictSearch() -> hash table look-up, average time complexity O(1), could degrade to O(n) if too many collisions - becomes linear search, space complexity O(1);
+searchPrice() -> same as dictSearch()
+
+

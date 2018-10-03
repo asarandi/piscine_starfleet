@@ -1,0 +1,3 @@
+time = O(w * n)
+space = O(w + N)
+bin search = O(log n)

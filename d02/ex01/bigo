@@ -1,0 +1,2 @@
+O(n^2)	worst case time complexity, for example when array is in reverse order
+O(1)	space complexity, no extra space used

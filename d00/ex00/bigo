@@ -1,0 +1,2 @@
+O(n) time complexity, because its a linear search and time taken is proportional to the amount of input data: more data - more time
+O(1) space complexity, because we always have a constant number of variables (only `int i` used as array index)

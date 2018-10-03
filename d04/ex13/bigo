@@ -1,0 +1,2 @@
+O(n) time (linear) complexity, n is leftmost bit set
+O(1) space complexity

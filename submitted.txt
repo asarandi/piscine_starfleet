@@ -1,0 +1,8 @@
+d00;	arrays and strings;			pdf ex00-ex09;	completed ex00-ex04;
+d01;	lists, stacks & queues;		pdf ex00-ex08;	completed ex00-ex07;	grade 75
+d02;	sorting algorithms;			pdf ex00-ex09;	completed ex00-ex06;
+d03;	trees and graphs;			pdf ex00-ex05;	completed ex00 only;
+d04;	bit manipulation;			pdf ex00-ex20;	completed ex00-ex17;
+d05;	recursive programming;		pdf ex00-ex08;	completed none
+d06;	recursive n^2, greedy algo;	pdf ex00-ex06;	completed none
+d07;	algorithms;					pdf ex00-ex05;	completed none

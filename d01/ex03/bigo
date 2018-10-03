@@ -1,0 +1,3 @@
+stackInit()			- O(1) time complexity, O(1) space complexity
+pop()				- O(1) time complexity, O(1) space complexity
+push()				- O(1) time complexity, O(1) space complexity

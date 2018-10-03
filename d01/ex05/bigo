@@ -1,0 +1,3 @@
+tankInit			O(1) time, O(1) space
+tankPush, tankPop	O(n) time, O(1) space
+

@@ -1,0 +1,35 @@
+O(n^2) time complexity (worst case)
+O(n) space complexity
+
+where n is number of groups of stones that have the same size
+
+
+-----------------------------------------------------------
+EXAMPLE:
+
+
+generating a list of stones with 30 elements
+24 24 24 24 24 24 24 24 24 24 24 24 24 13 13 13 13 13 13 13 13 13 5 5 5 5 11 11 11 26
+
+//HERE WE HAVE 5 GROUPS OF STONES THAT HAVE SAME SIZE
+
+ptrs[0] = 24
+ptrs[1] = 13
+ptrs[2] = 5
+ptrs[3] = 11
+ptrs[4] = 26
+
+//SORTED GROUPS (bubblesort, O(n^2))
+ptrs[0] = 5
+ptrs[1] = 11
+ptrs[2] = 13
+ptrs[3] = 24
+ptrs[4] = 26
+
+//FINAL OUTPUT
+5 5 5 5 11 11 11 13 13 13 13 13 13 13 13 13 24 24 24 24 24 24 24 24 24 24 24 24 24 26
+
+
+
+other operations like counting unique elements,
+fixing the "next" pointer in the linked list, etc  ... are linear: O(n)
